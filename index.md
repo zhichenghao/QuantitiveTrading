@@ -16,3 +16,7 @@ Stock market model
 8. 投资策略：数据+量化模型
 9. 
 ```
+### Quantitive Trading System
+a complext area of quant finance, MATLAB, R, Python, **C/C++** <br>
+The **skills** required by a sophisticated quantitative trading researcher are diverse. An extensive background in mathematics, probability and statistical testing provide the quantitative base on which to build. An understanding of the components of quantitative trading is essential, including forecasting, signal generation, backtesting, data cleansing, portfolio management and execution methods. More advanced knowledge is required for time series analysis, statistical/machine learning (including non-linear methods), optimisation and exchange/market microstructure. Coupled with this is a good knowledge of programming, including how to take academic models and implement them rapidly.
+1. Strategy Identifiation
