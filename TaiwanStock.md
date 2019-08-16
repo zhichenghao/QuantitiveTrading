@@ -6,7 +6,8 @@
 
 ### 自营商
 1. Dealers (Proprietary) 自营商（自行买卖）
-2. Dealers (Hedge) 自营商（避险
+2. Dealers (Hedge) 自营商（避险)
+
 
 ### 投信
 1. Securities Investment Trust Companies 投信
