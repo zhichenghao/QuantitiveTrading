@@ -25,8 +25,7 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 - 投信
 - 外資
 
-### 自营商
-是指在股票买卖中，是自己买卖股票而不是代理他人买卖的公司或者个人。
+### 自营商：是指在股票买卖中，是自己买卖股票而不是代理他人买卖的公司或者个人。
 1. Dealers (Proprietary) 自营商（自行买卖）
 2. Dealers (Hedge) 自营商（避险)
 
@@ -49,7 +48,6 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 | 合计                  | 36,062,400,444	       | 46,228,432,636      |
 
 
-
 | 16/08        | 买进金额        | 卖出金额        |
 | :------          |     :---:        |          ---: |
 | 自營商(自行買賣) | 1,245,015,007(3.5%)  | 1,305,505,016(2.8%)|
@@ -58,6 +56,8 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 | 外資及陸資(不含外資自營商)| 29,209,727,946(81.0%)|39,540,219,332(85.5%)    |
 | 外資自營商       | 4,785,360(0.01%)       | 7,648,170(0.01%)|
 | 合计            | 36,062,400,444	| 46,228,432,636      |
+
+2. [外資及陸資持股比例前20](https://www.twse.com.tw/zh/page/trading/fund/MI_QFIIS_sort_20.html)
 
 
 
