@@ -81,3 +81,7 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 
 
 
+
+
+
+
