@@ -76,27 +76,7 @@ PS:
 - [DMI](http://www.zqt888.cn/html/cgxt/1579.html): 动向指标意在探求股价在上涨和下跌过程中，买卖双方力量的均衡点，以及价格在双方的互动下波动循环的一种技术分析指标。其最大的特点就是能够较为准确的告知我们行情未来的变化趋势。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- introduction to stock market
+- how to apply process mining in stock market
+- 三大法人的走势和大盘走势的对比
 
