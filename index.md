@@ -18,19 +18,16 @@ Stock market model
 10. how to apply process mining in stock market
 11. 三大法人的走势和大盘走势的对比
 12. What should I need to know about "自变量" and "因变量"
-13. input: activities 都包含什么呢？
+13. input: activities (what does activities include? if we use one specific stock, which features do i need? such as P/E, MA5, and Risk free rate the machine learning can be used such as regression or classification?)
+how to quantify the information whcih has big influnce on the stock market, such as news, social media information
 14. goal: predict the trend of whole stock market or specific stock or trust?
-15. output: a process model?
+15. output: a process model
 ```
 ## Quantitive Trading System
 a complext area of quant finance, MATLAB, R, Python, **C/C++** 
 
 The **skills** required by a sophisticated quantitative trading researcher are diverse. An extensive background in mathematics, probability and statistical testing provide the quantitative base on which to build. An understanding of the components of quantitative trading is essential, including forecasting, signal generation, backtesting, data cleansing, portfolio management and execution methods. More advanced knowledge is required for time series analysis, statistical/machine learning (including non-linear methods), optimisation and exchange/market microstructure. Coupled with this is a good knowledge of programming, including how to take academic models and implement them rapidly.
 ## Taiwan Stock三大法人
-- 自营商
-- 投信
-- 外資
-
 ### 自营商：是指在股票买卖中，是自己买卖股票而不是代理他人买卖的公司或者个人。
 1. Dealers (Proprietary) 自营商（自行买卖）
 2. Dealers (Hedge) 自营商（避险)
@@ -79,7 +76,9 @@ PS:
 - [乖离率](https://www.zcaijing.com/bias/79981.html):又称偏离率，简称Y值，是通过计算市场指数或收盘价与某条移动平均线之间的差距百分比，以反映一定时期内价格与其MA偏离程度的指标，从而得出价格在剧烈波动时因偏离移动平均趋势而造成回档或反弹的可能性，以及价格在正常波动范围内移动而形成继续原有势的可信度.
 - [威廉指标](https://www.zcaijing.com/dxbzmmd/208581.html): W&R指标应用摆动原理来研判股市是否处于超买或超卖的现象，即可以测量股市同期循环内的高点或低点，而提出有效的买卖讯号
 - [多空指标](https://www.zcaijing.com/kxianjishuzhibiao/1275.html)：是通过将不同天数价格移动平均后再用加权平均方法计算而得出的一条移动平均线的综合指标
-- [DMI](http://www.zqt888.cn/html/cgxt/1579.html): 动向指标意在探求股价在上涨和下跌过程中，买卖双方力量的均衡点，以及价格在双方的互动下波动循环的一种技术分析指标。其最大的特点就是能够较为准确的告知我们行情未来的变化趋势。
+- [DMI](http://www.zqt888.cn/html/cgxt/1579.html): 动向指标意在探求股价在上涨和下跌过程中，买卖双方力量的均衡点，以及价格在双方的互动下波动循环的一种技术分析指标。其最大的特点就是能够较为准确的告知我们行情未来的变化趋势.
+- [P/E Price-to-Earning Ratio:](https://zh.wikipedia.org/wiki/市盈率) 指每股市价除以每股盈余
+- MA 5: N日MA=(C1+C2+C3+C4+C5+....+Cn)/n, C为收盘价，n 为移动平均周期数，N日MA即N日收盘价的算术平均数
 
 
 
