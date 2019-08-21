@@ -40,7 +40,7 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 2. Foreign Dealers 外资自营商
 
 ### example
-1. percentage of 三大法人: [三大法人买卖金额统计表](https://www.twse.com.tw/zh/page/trading/fund/BFI82U.html)
+1. percentage of 三大法人 (16th Aug 2019): [三大法人买卖金额统计表](https://www.twse.com.tw/zh/page/trading/fund/BFI82U.html)
 
 
 | 16/08        | 买进金额        | 卖出金额        |
