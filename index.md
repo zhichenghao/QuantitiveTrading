@@ -22,6 +22,9 @@ Stock market model
 how to quantify the information whcih has big influnce on the stock market, such as news, social media information
 14. goal: predict the trend of whole stock market or specific stock or trust?
 15. output: a process model
+16. 如果股价低于近20日平均价10%，则用全部可用资金买入， 如果股价高于近20日平均价10%，则卖出全部所持的该股票， 但是多低叫显著低于，多高叫显著高于，
+17. **找到一个三家具体的人或基金的具体动作，从而了解买卖，散户跟风，有可能盲目跟风，**
+为什么要分开自营商， 陆资有可能是dirty data受外部因素的影响，不只是市场，可能是受政治或者随机的因素的影响
 ```
 ## Quantitive Trading System
 a complext area of quant finance, MATLAB, R, Python, **C/C++** 
