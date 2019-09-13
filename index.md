@@ -72,7 +72,16 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 
 3. Article“Data mining investigation of co-movements on the Taiwan and China stockmarkets for future investment portfolio”
 
-[Stock Prices index](https://wiki.mbalib.com/wiki/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%8C%87%E6%95%B0)
+- [Stock Prices index](https://wiki.mbalib.com/wiki/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%8C%87%E6%95%B0)
+	- computed from the prices of selected stocks
+	- describe the market (The samples are chosen based on their representation in the market as a whole and are adjusted every year by considering profitability, oper- ational efficiency and trading liquidity of the shares, so that the indi- ces can mirror the market trends)
+	- criteria: investable and transparent
+	- Taiwan stock exchange capitalization weighted stock index (TAIEX 100)
+	- include sectors: non-Finance Sub-Index, Non-Electronics Sub-Index, and Non-Finance Non-Electronics Sub-Index
+		- industril sub-indices: Cement/ Glass/Ceramics, Textiles, Foods, Plastics/Chemicals/Rubber, Electric Machinery/Electric Appliance/Cable/Electronics, Paper/Pulp, Con- struction, and Finance
+		- Industrial Price Average Index
+		- Composite Price Average Index 
+
 
 
 
