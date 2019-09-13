@@ -70,6 +70,11 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 - [8482 商億-KY](https://tw.stock.yahoo.com/q/bc?s=8482)
 - [2936 客思達-KY](https://tw.stock.yahoo.com/q/bc?s=2936)
 
+3. Article“Data mining investigation of co-movements on the Taiwan and China stockmarkets for future investment portfolio”
+
+[Stock Prices index](https://wiki.mbalib.com/wiki/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%8C%87%E6%95%B0)
+
+
 
 PS:
 
