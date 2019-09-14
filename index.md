@@ -80,7 +80,8 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 	- include sectors: non-Finance Sub-Index, Non-Electronics Sub-Index, and Non-Finance Non-Electronics Sub-Index
 		- industril sub-indices: Cement/ Glass/Ceramics, Textiles, Foods, Plastics/Chemicals/Rubber, Electric Machinery/Electric Appliance/Cable/Electronics, Paper/Pulp, Con- struction, and Finance
 		- Industrial Price Average Index
-		- Composite Price Average Index 
+		- Composite Price Average Index
+	- source: Reuters, Bridge, Quick, Bloomberg, Primark
 
 
 
