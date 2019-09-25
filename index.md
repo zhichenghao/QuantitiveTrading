@@ -76,7 +76,7 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 	- computed from the prices of selected stocks
 	- describe the market (The samples are chosen based on their representation in the market as a whole and are adjusted every year by considering profitability, oper- ational efficiency and trading liquidity of the shares, so that the indi- ces can mirror the market trends)
 	- criteria: investable and transparent
-	- Taiwan stock exchange capitalization weighted stock index (TAIEX 100)
+	- Taiwan stock exchange capitalization weighted stock index [TAIEX 100](https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%AC%8A%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8)
 	- include sectors: non-Finance Sub-Index, Non-Electronics Sub-Index, and Non-Finance Non-Electronics Sub-Index
 		- industril sub-indices: Cement/ Glass/Ceramics, Textiles, Foods, Plastics/Chemicals/Rubber, Electric Machinery/Electric Appliance/Cable/Electronics, Paper/Pulp, Con- struction, and Finance
 		- Industrial Price Average Index
