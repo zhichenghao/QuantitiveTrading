@@ -81,7 +81,7 @@ The **skills** required by a sophisticated quantitative trading researcher are d
 		- industril sub-indices: Cement/ Glass/Ceramics, Textiles, Foods, Plastics/Chemicals/Rubber, Electric Machinery/Electric Appliance/Cable/Electronics, Paper/Pulp, Con- struction, and Finance
 		- Industrial Price Average Index
 		- Composite Price Average Index
-	- source: Reuters, Bridge, Quick, Bloomberg, Primark
+	- source: Reuters, Bridge, Quick, Bloomberg (https://www.bloomberg.com/quote/TWSE:IND), Primark
 
 
 
