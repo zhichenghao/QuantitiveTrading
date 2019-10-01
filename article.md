@@ -11,6 +11,17 @@
 	- historical stock prices
 
 - apply the conventional ARMA time series analysis on the historical weekly stock prices--->propose an algorithm to evaluate news/events related to aapl stock using information from the Yahoo finance website and the Google trend website. --->regress the changes in weekly stock prices on the values of the news at the beginning of the week
+
 2. Literature Review
 
-- The basic theory regarding stock price forecasting is the Efficient Market Hypothesis (EMH), which asserts that the price of a stock reflects all information available and everyone has some degree of access to the information. The implication of EMH is that the market reacts instantaneously to news and no one can outperform the market in the long run. However the degree of market efficiency is controversial and many believe that one can beat the market in a short period of time1.
+- The basic theory regarding stock price forecasting is the Efficient Market Hypothesis (EMH)
+	- which asserts that the price of a stock reflects all information available and everyone has some degree of access to the information. 
+	- The implication of EMH is that the market reacts instantaneously to news and no one can outperform the market in the long run.
+	- basic ARIMA model modification
+		- clustering time series from ARMA models with clipped data
+		- fuzzy neural network approach
+		- support vector machines model
+	- use textual information in public media to evaluate news
+		- AZFin text system5
+		- a matrix form text mining system
+		- named entities representation scheme
