@@ -3,9 +3,9 @@
 1. introduction
 - fundamental analysis: focus on undelying factors that affect a company's actual business and its future prospects
 
-	&nbsp;- news articles and analyst opinions
-	* most popular techniques to evaluate online news: text mining
-	* this article use Yahoo finance website and Google trend website to simplify the evaluation process
+	- &nbsp;news articles and analyst opinions
+	- most popular techniques to evaluate online news: text mining
+	- this article use Yahoo finance website and Google trend website to simplify the evaluation process
 
 - techqnical analysis: focus on price movement of a stock and uses this data to predict its future price movements.
 
