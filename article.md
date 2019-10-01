@@ -1,6 +1,7 @@
 # article
 ## [Stock Price Forecasting Using Information from Yahoo Finance and Google Trend](https://www.econ.berkeley.edu/sites/default/files/Selene%20Yue%20Xu.pdf)
 1. introduction
+
 - fundamental analysis: focus on undelying factors that affect a company's actual business and its future prospects
 	- news articles and analyst opinions
 	- most popular techniques to evaluate online news: text mining
