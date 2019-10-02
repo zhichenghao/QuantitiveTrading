@@ -14,7 +14,7 @@
 
 2. Literature Review
 
-- The basic theory regarding stock price forecasting is the Efficient Market Hypothesis (EMH)
+- The basic theory regarding stock price forecasting is the [Efficient Market Hypothesis (EMH)](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp)
 	- which asserts that the price of a stock reflects all information available and everyone has some degree of access to the information. 
 	- The implication of EMH is that the market reacts instantaneously to news and no one can outperform the market in the long run.
 	- basic ARIMA model modification
@@ -25,3 +25,16 @@
 		- AZFin text system5
 		- a matrix form text mining system
 		- named entities representation scheme
+
+3. [台灣加權指數TAIEX Taiwan Capitalization Weighted Stock Index](https://wiki.mbalib.com/zh-tw/台湾证券交易所发行量加权股价指数)
+	- techqnical analysis:
+		- [investing.com](https://hk.investing.com/indices/taiwan-weighted)
+		- [Yahoo](https://tw.stock.yahoo.com/t/idx.php)
+		- [Google](https://www.google.com/search?tbm=fin&sxsrf=ACYBGNRbxR-7_R6N3f9hSUsKGYdW8JZEcw:1570031120914&q=TPE:+TAIEX&stick=H4sIAAAAAAAAAONgecRozC3w8sc9YSmtSWtOXmNU4eIKzsgvd80rySypFBLjYoOyeKS4uDj0c_UNkosKLXkWsXKFBLhaKYQ4erpGAAAu-w0uRQAAAA&biw=1366&bih=733#scso=_FcaUXaTpGaaEhbIP7fy_CA7:0)
+
+	- fundamental analysis:
+		- 
+
+
+
+
