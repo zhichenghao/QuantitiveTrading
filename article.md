@@ -10,9 +10,12 @@
 
 - techqnical analysis: focus on price movement of a stock and uses this data to predict its future price movements.
 	- historical stock prices
-	- - most popular techniques to evaluate online news: text mining
+	- most popular techniques to evaluate online news: text mining
 
-- apply the conventional ARMA time series analysis on the historical weekly stock prices--->propose an algorithm to evaluate news/events related to aapl stock using information from the Yahoo finance website and the Google trend website. --->regress the changes in weekly stock prices on the values of the news at the beginning of the week
+- methods
+	- apply the conventional ARMA time series analysis on the historical weekly stock prices
+	- propose an algorithm to evaluate news/events related to aapl stock using information from the Yahoo finance website and the Google trend website.
+	- regress the changes in weekly stock prices on the values of the news at the beginning of the week
 
 2. Literature Review
 
