@@ -12,3 +12,9 @@
 2. [screamingfrog](https://www.screamingfrog.co.uk/web-scraping/)
 3. [scrapestorm](https://www.scrapestorm.com/?utm=ad_qr)
 4. [Google Finance Scraping Spider PHP Code](http://scrape-google-finance.compunect.com/?scrape-google-finance)
+
+## thoughts
+1. Commercial tool is easy to used but there are limitations, lisence, different end users.
+2. scrape search 
+3. [Web Search Queries Can Predict Stock Market Volumes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040014)
+4. 
