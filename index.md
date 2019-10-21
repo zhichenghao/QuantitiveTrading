@@ -97,6 +97,7 @@ PS:
 - [DMI](http://www.zqt888.cn/html/cgxt/1579.html): 动向指标意在探求股价在上涨和下跌过程中，买卖双方力量的均衡点，以及价格在双方的互动下波动循环的一种技术分析指标。其最大的特点就是能够较为准确的告知我们行情未来的变化趋势.
 - [P/E Price-to-Earning Ratio:](https://zh.wikipedia.org/wiki/市盈率) 指每股市价除以每股盈余
 - MA 5: N日MA=(C1+C2+C3+C4+C5+....+Cn)/n, C为收盘价，n 为移动平均周期数，N日MA即N日收盘价的算术平均数
+- [指數系列](https://www.twse.com.tw/zh/page/products/indices/series.html)
 
 
 
