@@ -91,7 +91,9 @@ brief introduction
 	- Effective and Efficient Learning: follow a similar process which particular conducts learning on more informative news at the easlier stage and further optimized to tackle harder samples
 
 4. DEEP LEARNING FRAMEWORK FOR NEWS-ORIENTED TREND PREDICTION
-	- *problem*: 
+	- _problem_: 
+	- __Hybrid Attention Networks__
+	- **Self-paced Learning Mechanism**
 
 
 
