@@ -58,6 +58,7 @@ brief introduction
 	- three principles to solve: sequential context dependency, divese influnce, and effective and efficient learning
 	- techniqual analysis and foundamental analysis
 	- deep learning framework based on the three principles
+
 1. introduction
 - motivation: maxmized profits
 - challenges: highly volatile and non-stationary nature of the market
@@ -68,6 +69,7 @@ brief introduction
 		- Sequential Context Dependency: consider a sequence of related recent news as a unified context (HAN and RNN)
 		- Diverse Influence: discriminate differnet news accroding to the importance (HAN and RNN)
 		- Effective and Efficient Learning: Not all news can provide inforamtice indication (SPL)
+		
 2. related Work
 	- technical analysis: deal with time-series historic market data to find the trading patterns that can be leveraged for future prediction.
 		- Model: recurrent neural networks (RNN)
