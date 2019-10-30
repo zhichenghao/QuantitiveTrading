@@ -69,7 +69,7 @@ brief introduction
 		- Sequential Context Dependency: consider a sequence of related recent news as a unified context (HAN and RNN)
 		- Diverse Influence: discriminate differnet news accroding to the importance (HAN and RNN)
 		- Effective and Efficient Learning: Not all news can provide inforamtice indication (SPL)
-		
+
 2. related Work
 	- technical analysis: deal with time-series historic market data to find the trading patterns that can be leveraged for future prediction.
 		- Model: recurrent neural networks (RNN)
@@ -86,6 +86,13 @@ brief introduction
 		- method3: consider the topics relating to the target stocks, and ex- tracting topics and related sentiments from social media to make prediction.
 
 3. Empirical analysis
+	- Sequential Context Dependency: integrate and interpret each news in a sequential temporal context
+	- Diverse Influence: distinguish the news with more intensive and influence
+	- Effective and Efficient Learning: follow a similar process which particular conducts learning on more informative news at the easlier stage and further optimized to tackle harder samples
+
+4. DEEP LEARNING FRAMEWORK FOR NEWS-ORIENTED TREND PREDICTION
+	- *problem*: 
+
 
 
 	
