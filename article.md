@@ -54,11 +54,21 @@
 
 ## [Listening to Chaotic Whispers: A Deep Learning Framework for
 News-oriented Stock Trend Prediction](http://delivery.acm.org/10.1145/3160000/3159690/p261-hu.pdf?ip=137.195.113.86&id=3159690&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2E8C2422C056BE0E73%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1571917148_469c1bf35f1b23f46ad2ac888f1b1930)
-1. brief introduction
+brief introduction
 - quality of news are low quality or even 
 	- three principles to solve: sequential context dependency, divese influnce, and effective and efficient learning
 	- techniqual analysis and foundamental analysis
 	- deep learning framework based on the three principles
+1. introduction
+- motivation: maxmized profits
+- challenges: highly volatile and non-stationary nature of the market
+- Method: technical analysis(prices and volumes) and foundemental analysis(ecnomical trend and contents)
+	- new trend: content from the online media
+	- challenges: quality, trustworthiness and comprehensiveness is vary drastically and most of the news are bad quality
+	- Three principles to deal with chaotic online news
+		- Sequential Context Dependency: consider a sequence of related recent news as a unified context (HAN and RNN)
+		- Diverse Influence: discriminate differnet news accroding to the importance (HAN and RNN)
+		- Effective and Efficient Learning: Not all news can provide inforamtice indication (SPL)
 	
 
 
