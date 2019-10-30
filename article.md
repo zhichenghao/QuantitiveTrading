@@ -53,7 +53,7 @@
 		- [google trend](https://trends.google.com/trends/explore?q=taiwan%20stock)
 
 ## Listening to Chaotic Whispers: A Deep Learning Framework for
-News-oriented Stock Trend Prediction](http://delivery.acm.org/10.1145/3160000/3159690/p261-hu.pdf?ip=137.195.113.86&id=3159690&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2E8C2422C056BE0E73%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1571917148_469c1bf35f1b23f46ad2ac888f1b1930)
+News-oriented Stock Trend [Prediction](http://delivery.acm.org/10.1145/3160000/3159690/p261-hu.pdf?ip=137.195.113.86&id=3159690&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2E8C2422C056BE0E73%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1571917148_469c1bf35f1b23f46ad2ac888f1b1930)
 brief introduction
 - quality of news are low quality or even 
 	- three principles to solve: sequential context dependency, divese influnce, and effective and efficient learning
