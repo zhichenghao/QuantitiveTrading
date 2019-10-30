@@ -52,7 +52,7 @@
 				- https://tw.news.yahoo.com/politics
 		- [google trend](https://trends.google.com/trends/explore?q=taiwan%20stock)
 
-## [Listening to Chaotic Whispers: A Deep Learning Framework for
+## Listening to Chaotic Whispers: A Deep Learning Framework for
 News-oriented Stock Trend Prediction](http://delivery.acm.org/10.1145/3160000/3159690/p261-hu.pdf?ip=137.195.113.86&id=3159690&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2E8C2422C056BE0E73%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1571917148_469c1bf35f1b23f46ad2ac888f1b1930)
 brief introduction
 - quality of news are low quality or even 
@@ -69,6 +69,24 @@ brief introduction
 		- Sequential Context Dependency: consider a sequence of related recent news as a unified context (HAN and RNN)
 		- Diverse Influence: discriminate differnet news accroding to the importance (HAN and RNN)
 		- Effective and Efficient Learning: Not all news can provide inforamtice indication (SPL)
+2. related Work
+	- technical analysis: deal with time-series historic market data to find the trading patterns that can be leveraged for future prediction.
+		- Model: recurrent neural networks (RNN)
+		limitations: cant reveal the dynamics of the market beyond the price data
+	- foudamental analysis: seek information outside market-historic-data, such as geopolitics, business principles
+		- method: multi-layer dimension reduction algorithm with semantics and sentiment to predict intra-day directional-movements of a currency-pair in the foreign exchange market. 
+		- method2: incorporating an outside knowledge graph into the learning process for event embeddings. 
+		- method3: text regression task to predict the volatility of stock prices
+		- method4: novel tree representa- tion, and use it to train predictive models with tree kernels using support vector machines
+		- method5:  extract a large scale of expressive features to represent the unstructured text data and employs a robust feature selection to enhance the stock prediction
+	- analyze sentiments from public news and social media
+		- method1: implements a generic stock price prediction framework using sentiment analysis
+		- method2: They conduct a thorough study over 10 million stock-relevant tweets from Weibo, and find five attributes that stock market in China can be com- petently predicted by various online emotions
+		- method3: consider the topics relating to the target stocks, and ex- tracting topics and related sentiments from social media to make prediction.
+
+3. Empirical analysis
+
+
 	
 
 
