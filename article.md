@@ -96,6 +96,7 @@ brief introduction
 		> stock are classfied into: DOWN(significant dropping), UP(significant rising), PRESERVE(steady stock)
 		> Tasks: use the news corpus sequence from time t-N to t-1 denoted as [Ct-N, Ct-N+1,...Ct-1] to predict the classs of Rise_Percent(t) N: length of a time sequence, s: stock, t: date, 
 	- **Hybrid Attention Networks**:
+		>
 	- **Self-paced Learning Mechanism**:
 
 
