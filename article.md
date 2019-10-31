@@ -96,9 +96,17 @@ brief introduction
 		- stock are classfied into: DOWN(significant dropping), UP(significant rising), PRESERVE(steady stock)
 		- Tasks: use the news corpus sequence from time t-N to t-1 denoted as [Ct-N, Ct-N+1,...Ct-1] to predict the classs of Rise_Percent(t) N: length of a time sequence, s: stock, t: date, 
 	- **Hybrid Attention Networks**:
-		>
+		> input: a news corpus sequence, **news embedding layer** encodes each news into a news vector nti. **news-level** attention layer assigns an attention value to each news vectors as a corpus vector for this date and calculate the weighted mean of these news vectors as a corpus vector. **Temporal attention layer** assigns an attention value to each daa and calculate the weighted means of these encoded corpus vectors. Finally classification is made by a discriminative network
+		- News Embedding:  For each ith news in news corpus Ct of date t, we use a word embedding layer to calculate the embedded vector for each word and then average all the words’ vectors to construct a news vector nti.
+		- news-level attention: attention mechanism to aggregate the news weighted by an assigned attention value
+		- sequential modeling: Gated Recurrent Units (GRU): is a variant of recurrent neural networks that uses a gating mechanism to check the state of sequences (know how much past information should be kept and how much new inforamtion should be added)
+		- temporal attention: news published in different dates contribute to the stock trend unequally
+		- Trend prediction: discriminative network is a multi-layer perception and produce the three-classification
 	- **Self-paced Learning Mechanism**:
+	 - skip challenges at the realy training stages and progressively incorporate them into the model training
+	 - use Self-Paced Learning (SPL): learn the news influnce in an organized manner
 
+5. Evaluation
 
 
 	
