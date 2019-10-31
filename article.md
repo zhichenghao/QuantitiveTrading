@@ -91,9 +91,12 @@ brief introduction
 	- Effective and Efficient Learning: follow a similar process which particular conducts learning on more informative news at the easlier stage and further optimized to tackle harder samples
 
 4. DEEP LEARNING FRAMEWORK FOR NEWS-ORIENTED TREND PREDICTION
-	- _problem_: 
-	- __Hybrid Attention Networks__
-	- **Self-paced Learning Mechanism**
+	- **problem**:
+		> Rise_Percent(t) = [Open_Price(t+1)-Open_price(t)]/Open_Price(t)
+		>>classicaition
+		>adasd
+	- **Hybrid Attention Networks**:
+	- **Self-paced Learning Mechanism**:
 
 
 
