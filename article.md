@@ -107,6 +107,10 @@ brief introduction
 	 - use Self-Paced Learning (SPL): learn the news influnce in an organized manner
 
 5. Evaluation
+	- experimental setup: stock from 2014-1017 in daily, filter news if the news mentioned the name of the stock in the title or content
+	- **learning stage**: DOWN (Rise_Percent(t) < −0.41%), UP (Rise_Percent(t) > 0.87%), and PRESERVE (−0.41% ≤ Rise_Percent(t) ≤ 0.87%). tranining set 66.7% and test set 33.3% validation set from the training set with 10%, romove words less than 5 times
+	- **compared methods**: random forest, multi-layer perception, news-RNN
+
 
 
 	
