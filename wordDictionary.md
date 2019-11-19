@@ -16,5 +16,6 @@
 12. 市盈率(Price-to-Earning Ratio, P/E or PER)又稱為[本益比](https://zh.wikipedia.org/wiki/市盈率)
 - 又称为市盈率，指每股市价除以每股盈余 (Earnings Per Share，EPS)，通常作为股票是便宜抑或昂贵的指标 (通货膨胀会使每股收益虚增，从而扭曲市盈率的比较价值)。市盈率把企业的股价与其制造财富的能力联系起来。
 - 市盈率＝每股市价／每股盈余
-13. [成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F)
+13. [成交量](https://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F): 成交量是指在某一时段内具体的交易数
+14. [筹码分布指标](https://wiki.mbalib.com/wiki/%E7%AD%B9%E7%A0%81%E5%88%86%E5%B8%83%E6%8C%87%E6%A0%87): 是将市场交易的筹码画成一条条横线，其数量共100条，该横线在价格空间内所处的位置代表指数或股价的高低，其长短代表该价位筹码数量的多少
 
