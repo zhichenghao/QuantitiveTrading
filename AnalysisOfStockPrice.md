@@ -9,6 +9,7 @@ Financial News Article Release**
 
 2. Introduction
  - the use of news analytics to supplement trade decision making
+ - [high frequency trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp)
  - [media outlet](https://en.wiktionary.org/wiki/media_outlet), time of release and sentiment of the financial news article
  - Goal: build a system to analyze the factors a corporation could use in conjunction with a financial news articles release to manage their stock prices
  - study the corralation of factors and theorize the determinants of causation to determin what link
