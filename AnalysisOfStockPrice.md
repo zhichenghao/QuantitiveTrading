@@ -59,7 +59,44 @@ Financial News Article Release**
 	- CentralFinance was able to identify a strong correlation between the period following the release of a financial news article and abnormal price movement
 	- link between media outlets and price movement.
 	- time of news article release and how it relates to abnormal price movement. We found that articles released at market opening had significantly higher SharpeArticle to SharpeRandom (2.58 to 1.32 respectively, p-value < 0.01). We believe that this
-	- correlation between article sentiment and abnormal price movement:  negative polarity had the highest SharpeArticle value 
+	- correlation between article sentiment and abnormal price movement:  negative polarity had the highest SharpeArticle value
+
+8. Author [Dr. Robert P. Schumaker](http://robschumaker.com/pubs/?domain=fintext) ? he did not provide any datasets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
