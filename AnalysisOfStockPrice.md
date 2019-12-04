@@ -63,6 +63,24 @@ Financial News Article Release**
 
 8. Author [Dr. Robert P. Schumaker](http://robschumaker.com/pubs/?domain=fintext) ? he did not provide any datasets
 
+9. Research Question:
+	- What is the correlation between stock price movement and financial news article release?
+		- compare price at certain point?
+		- invesitage trends (initial trends is up but going down after artile release)
+	- Does the media outlet imapct stock price?
+		- compare the influence between different media outlets (e.g. wall street journals, trumps news releases and tweet, Bloomberg news)
+	- What effect does article release time have on excess returns?
+	- what is the role of sentiment in price movement?
+	- ? Do i need to analyze one specific stock by using different media outlets? or one media outlets correspond with one stocks and these means need to analyze differetn stocks. What should i need to do?
+
+10. proposal
+	- [Stock Market Reactions to Presidential Social Media
+Usage: Evidence from Company-Specific Tweets](https://lamacro.davidson.edu/wp-content/uploads/gravity_forms/1-95b74353d944e7d67926fb1900938dee/2017/05/Ge-Kurov-Wolfe_2017_Stock-Market-Reactions-to-Presidential-Social-Media-Usage.pdf)
+	- President Trump has utilized Twitter to target specific companies
+in his tweets about industrial policy. 
+	- Sentiment analysis can find the positive or negtive of those tweets
+
+11. how to use process mining?
 
 
 
