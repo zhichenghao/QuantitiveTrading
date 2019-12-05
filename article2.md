@@ -14,4 +14,13 @@ A  model-driven translation approach etween semantic web service based business 
 
 **1.2 SBPM**: provide a set of integrated ontologies developed in [WSML](https://www.w3.org/Submission/WSML/)
 
+- provide ontologies for standards (e.g. BPMN, EPC, BPEL) and Business Process Modelling Ontology
+- goal: support BPM lif-cycle activities at the semantic level (modelling, querying, translation and execution)
+- tasks: handling the translations between the provided ontologies in order to navigate from different views at the busienss level to the IT at the excution level
+
+**1.3**:model-driven approach
+- implement translator for transforming instances of BPMO to instences of the ontology for BPEL
+- implements mappings using [ATL rules](https://wiki.eclipse.org/ATL/User_Guide_-_The_ATL_Language) and XML format of [WSML](https://en.wikipedia.org/wiki/Web_Services_Modeling_Language) as both source and target models of the ATL transformation engine
+-reuslt: semantically annotated executable business process model.
+
 
