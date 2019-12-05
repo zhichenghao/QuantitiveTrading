@@ -10,6 +10,7 @@ A  model-driven translation approach etween semantic web service based business 
 **1.1 Busines Process Management**: provide process modelling languages and tools to faciliate bridging between the business and IT views
 	- obtacle: business expert perspective to the actual implementation is not accesible at the semantic level and neither to machine reasoning.
 	- sollition: use of ontologies and Semantic Web Services(SWS) to provide a unified view on business process in a machine understandable way.
+	
 **1.2 SBPM**: provide a set of integrated ontologies developed in [WSML](https://www.w3.org/Submission/WSML/)
 
 
