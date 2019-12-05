@@ -82,6 +82,16 @@ in his tweets about industrial policy.
 
 11. how to use process mining?
 
+## Statistical Significance
+
+1. Null Hypothesis (H0): No difference between groups
+2. alternative Hypothesis (H1 or Ha): there is a difference(relationship between treatment/risk factor & outcomes)
+3. p-Value: probability of obtaining a result at least as  as the current one, assuming null is true
+	- level of significance (alpha α) to decide whether pa-value is low or high
+	-  p-value < α  means the result is statistically significant (α usually 5%)
+	- P 值越小，说明零假设的情况越不容易发生（越有把握拒绝零假设）
+
+
 
 
 
