@@ -1,4 +1,5 @@
-# content
-##article3 - Twitter mood predicts the stock market
+# Content
+
+## article3 - Twitter mood predicts the stock market
 
 
