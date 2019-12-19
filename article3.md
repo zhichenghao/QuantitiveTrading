@@ -55,7 +55,8 @@
 	- input 1: the past 3 days of DJIA values
 	- input 2: the same combined with various permutations of our mood time series
 	- evaluate SOFNN model's ability to predict daily DJIA prices
-## 3. Discussion
+	
+### 3. Discussion
 - Changes in public mood state cna indeed be tracked from the content of large-scale Twitter feeds by means of rather simple text processing techqniues
 - The calmness of the public (measured by GPOMS) is thus predictive of the DJIA rather than general levels of positive sentiment as measured by OpinionFinder.
 - Limitations:
